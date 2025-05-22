@@ -8,6 +8,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/nour maatouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nour maatouk" height="30" width="40" /></a>
 <a href="https://kaggle.com/nourmaatouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nourmaatouk" height="30" width="40" /></a>
+    <a href="https://www.datacamp.com/portfolio/nourmaatouk88" target="_blank">
+    <img align="center" src="https://seeklogo.com/images/D/datacamp-logo-274EE448B1-seeklogo.com.png" alt="nourmaatouk DataCamp" height="30" width="40" />
+  </a>
 </p>
 
 
