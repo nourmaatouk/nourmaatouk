@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm Nour Maatouk
 
-<img src="https://nourmaatouk.netlify.app/profile.jpg" width="140" style="border-radius:50%" alt="Nour Maatouk" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+AI+Engineer;Multi-Agent+Systems+%7C+GraphRAG+%7C+Knowledge+Graphs;AI+for+Trading+Intelligence+%40+Talan;1st+Place+Winner+%F0%9F%8F%86+5x+AI+Hackathons;Based+in+Sousse%2C+Tunisia" alt="Typing SVG" />
 
