@@ -23,8 +23,7 @@
 
 I'm currently building real-world AI systems ranging from predictive models and GraphRAG-powered multi-agent reasoning pipelines to computer-vision tools for healthcare and ergonomics.
 
-**Currently:** 🧠 AI Engineer Intern @ Talan (finishing June 2026)  
-**🎯 Current Objective:** Seeking a Final-Year Internship (PFE) to contribute to advanced AI-driven projects in an innovative environment  
+**Currently:** 🧠 AI Engineer 
 **Based in:** 📍 Sousse, Tunisia  
 **Languages:** 🌍 English • French (DELF B2) • Arabic
 
@@ -56,7 +55,7 @@ Fun Facts:
 
 ## 💼 Professional Experience
 
-### 🔹 AI Engineer Intern | Talan
+### 🔹 AI Engineer Intern | Talan | [Talan](https://www.talan.com/)
 **Feb 2026 - Jun 2026 | Tunisia (On-site)**
 
 Designed and developed an AI-powered predictive analytics system for the cryptocurrency market, focused on **SOL/USDT**, as an AI/Data Science contributor within a broader engineering team.
